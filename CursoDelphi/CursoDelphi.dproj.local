@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/11/12 09:57:13.000.703,=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/12 09:58:31.000.668,\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.dfm=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Principal.dfm</Transaction>
+    <Transaction>2025/11/12 09:58:31.000.668,\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Principal.pas</Transaction>
+    <Transaction>2025/11/12 09:58:39.000.445,\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Project1.dproj=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\CursoDelphi.dproj</Transaction>
+    <Transaction>2025/11/12 15:07:33.000.572,=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/12 15:07:53.000.807,\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Somas.pas=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/14 08:54:05.328,=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/14 08:54:41.630,\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Cores.pas=\\servidor\Informatica\Suporte\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
